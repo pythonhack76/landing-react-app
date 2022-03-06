@@ -28,6 +28,43 @@
   color: #61dafb;
 }
 
+
+.container {
+
+  align-items: center;
+  align-content: center;
+  
+}
+
+.container h2, h3 {
+  text-align: center;
+  margin-top: 20px;
+  color: rgb(189, 146, 30);
+  font-weight: 600;
+
+}
+
+.container p {
+  text-align: center;
+}
+
+.footer {
+
+  text-align: center;
+  font-weight: 600;
+  color: black; 
+   margin: 0 auto;
+   padding: 0; 
+}
+
+#datetime {
+  background-color: beige;
+ 
+}
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +73,5 @@
     transform: rotate(360deg);
   }
 }
+
+
